@@ -1,4 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 p {
-  color: skyblue;
-  font-size: 1.5rem;
+  color: papayawhip;
+  font-size: 1rem;
+  margin-top: 2rem;
+  padding-left: 5px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: start;
 }
